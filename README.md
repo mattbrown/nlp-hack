@@ -5,3 +5,6 @@ Methods to look at:
 text.common_contexts (Common contexts where words appear)
 text.similar (find other words in the same context)
 
+
+http://engineroom.trackmaven.com/blog/monthly-challenge-natural-language-processing/
+
