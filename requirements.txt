@@ -1,8 +1,11 @@
+BeautifulSoup==3.2.1
+PyMySQL==0.6.3
 nltk==3.0.0
 numpy==1.9.1
 pandas==0.15.1
 python-dateutil==2.3
 pytz==2014.10
+selenium==2.44.0
 six==1.8.0
 textblob==0.9.0
 wsgiref==0.1.2
