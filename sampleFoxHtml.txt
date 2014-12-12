@@ -1,0 +1,1204 @@
+
+<!DOCTYPE html>
+<html>
+<head profile="http://dublincore.org/documents/dcq-html/">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta name="apple-mobile-web-app-title" content="Politics">
+	<link rel="apple-touch-icon" href="http://global.fncstatic.com/static/v/fn2/img/politics/72x72-foxnews-politics.png">
+	    <!-- This page is generated from portal v8-www -->
+	    <script type="text/javascript">
+		var FOX_pagedescriptor = window.FOX_pagedescriptor = {breadcrumb:
+		"/politics", isMgmt: "false", site: "fn2" };
+	</script>
+	<script src="http://global.fncstatic.com/static/v/all/js/ag.jquery.js?201412111001"></script>
+	<script src="http://ads.foxnews.com/js/ad.js"></script>
+<script src="http://global.fncstatic.com/static/v/all/js/ag.base.js?201412111001"></script>
+	<link rel="icon" href="http://global.fncstatic.com/static/v/fn2/img/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="http://global.fncstatic.com/static/v/fn2/img/favicon.ico">
+	<link rel="schema.dc" href="http://purl.org/dc/elements/1.1/">
+<link rel="schema.dcterms" href="http://purl.org/dc/terms/">
+<link rel="schema.prism" href="http://prismstandard.org/namespaces/basic/2.1/">
+<link rel="schema.iptc" href="http://iptc.org/std/nar/2006-10-01/">
+<title>Breaking Political News, Headlines & Opinion | Politics |  Fox News</title>
+				<meta name="dc.title" content="Politics">
+<meta itemprop="description" name="description" content="Presidential politics and political news from FOXNews.com. News about political parties, political campaigns, world and international politics, politics news headlines plus in-depth features and video clips.">
+<meta name="dc.description" content="Presidential politics and political news from FOXNews.com. News about political parties, political campaigns, world and international politics, politics news headlines plus in-depth features and video clips.">
+<meta name="dcterms.abstract" content="Presidential politics and political news from FOXNews.com. News about political parties, political campaigns, world and international politics, politics news headlines plus in-depth features and video clips.">
+<meta name="dc.publisher" content="Fox News">
+<meta name="dc.source" content="Fox News">
+<meta name="keywords" content="politics, presidential politics, political news, political parties, American politics, republican party, democratic party, political issues, political campaigns, world politics, international politics">
+<meta name="dc.subject" content="politics, presidential politics, political news, political parties, American politics, republican party, democratic party, political issues, political campaigns, world politics, international politics ">
+<meta name="dc.identifier" scheme="dcterms.URI" content="urn:uuid:94dff428b9403210VgnVCM100000cf3ce80aRCRD">
+<link rel="shorturl" href="http://fxn.ws/nrUhr1">
+<link rel="canonical" href="http://www.foxnews.com/politics/index.html">
+<meta name="prism.aggregationType" content="front">
+<meta name="prism.genre" content="homePage">
+<meta name="dc.type" scheme="dcterms.DCMIType" content="Collection">
+<meta name="prism.channel" content="fnc">
+<meta name="prism.section" content="politics">
+<meta name="prism.subsection1" content="">
+<meta name="prism.subsection2" content="">
+<meta name="prism.subsection3" content="">
+<meta name="prism.subsection4" content="">
+<meta property="og:title" content="Politics">
+<meta property="og:description" content="Presidential politics and political news from FOXNews.com. News about political parties, political campaigns, world and international politics, politics news headlines plus in-depth features and video clips.">
+<meta property="og:type" content="article">
+<link rel="image_src" href="http://global.fncstatic.com/static/v/all/img/fn_128x128.png">
+<meta property="og:image" content="http://global.fncstatic.com/static/v/all/img/fn_128x128.png">
+<meta property="og:url" content="http://www.foxnews.com/politics/index.html">
+<meta property="og:site_name" content="Fox News">
+<meta property="fb:app_id" content="113186182048399">
+<meta name="livefyreconfig" collectionMeta="eyJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6IlBvbGl0aWNzIiwiY2hlY2tzdW0iOiI1NTZlODNlNzdmMzgxZDBlODFlODM3MDQ2YjkxNzEwNSIsImFydGljbGVJZCI6Ijk0ZGZmNDI4Yjk0MDMyMTBWZ25WQ00xMDAwMDBjZjNjZTgwYVJDUkQiLCJ1cmwiOiIvcG9saXRpY3MvaW5kZXguaHRtbCJ9.CXL7InOA2xBfVCd1esNtV2JsVGlZt-EXsU_PhP__t7Q" checksum="556e83e77f381d0e81e837046b917105" articleId="94dff428b9403210VgnVCM100000cf3ce80aRCRD" siteId="310256">
+<meta name="parsely-page" content='{"title":"Politics","link":"http://www.foxnews.com/politics/index.html","image_url":"http://global.fncstatic.com/static/v/all/img/fn_128x128.png","type":"sectionpage","post_id":"urn:uuid:94dff428b9403210VgnVCM100000cf3ce80aRCRD","section":"politics","tags":["politics"]}'>
+<meta name="parsely-metadata" content='{"title":"Politics","link":"http://www.foxnews.com/politics/index.html","image_url":"http://global.fncstatic.com/static/v/all/img/fn_128x128.png","type":"sectionpage","identifier":"urn:uuid:94dff428b9403210VgnVCM100000cf3ce80aRCRD","section":"politics","tags":["politics"]}'>
+<meta name="dc.format" scheme="dcterms.IMT" content="text/html">
+<meta name="dc.language" scheme="dcterms.RFC4646" content="en-US">
+<meta http-equiv="content-language" content="en">
+<link rel="alternate" href="android-app://com.foxnews.android/http/www.foxnews.com/politics/index.html" /> <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic|Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+	<link href="http://global.fncstatic.com/static/v/fn2/ch/css/ag.politics.rs.css?201412111001" rel="stylesheet" type="text/css">
+
+	<script src="http://global.fncstatic.com/static/v/fn2/ch/js/ag.politics.rs.js?201412111001"></script>
+
+	<!--[if lt IE 9]>
+	<script src="http://global.fncstatic.com/static/v/all/js/html5shiv.js"></script>
+	<link rel="stylesheet" href="http://global.fncstatic.com/static/v/fn2/site/css/ie.rs.css" type="text/css">
+	<![endif]-->
+
+<script> FOX.site.topInit(); </script> 	</head>
+	<body class="politics front">
+		<div id="drawer">
+	<form action="http://www.foxnews.com/search-results/search" method="get">
+		<fieldset class="search">
+			<legend>Search</legend>
+			<input type="text" value="Search foxnews.com" name="q" class="resp_site_search" onblur="" onfocus="" autocomplete="off">
+		</fieldset>
+	</form>
+	<div id="user-options"><div class="logged-out"><p>Sign in to comment!</p></div><a class="login" href="#">Login</a></div>
+	<nav data-track-zone="subnav">
+		<ul>
+			<li class="home"><a href="//www.foxnews.com/?intcmp=subnav">Fox News Home</a></li>
+			<li class="watch"><a href="//video.foxnews.com/v/1241186546001/fox-news-channel/?intcmp=subnav#sp=watch-live">Watch Live</a></li>
+			<li class="trending"><a href="//www.foxnews.com/trending/?intcmp=subnav">Trending</a></li>
+			<li class="video"><a href="//video.foxnews.com?intcmp=subnav">Video</a></li>
+			<li>
+				<a href="#">Politics</a>
+				<ul>
+					<li><a href="//www.foxnews.com/politics/index.html?intcmp=subnav">Politics Home</a></li>
+					<li><a href="//www.foxnews.com/politics/elections/2014/2014-midterm-elections?intcmp=subnav">Midterm Elections</a></li>
+					<li><a href="//www.foxnews.com/category/politics/presidential?intcmp=subnav">Election 2016</a></li>
+					<li><a href="//www.foxnews.com/politics/executive-branch/index.html?intcmp=subnav">Executive</a></li>
+					<li><a href="//www.foxnews.com/politics/senate/index.html?intcmp=subnav">Senate</a></li>
+					<li><a href="//www.foxnews.com/politics/house/index.html?intcmp=subnav">House of Representatives</a></li>
+					<li><a href="//www.foxnews.com/politics/defense/index.html?intcmp=subnav">Defense</a></li>
+					<li><a href="//www.foxnews.com/politics/judiciary/index.html?intcmp=subnav">Judiciary</a></li>
+					<li><a href="//www.foxnews.com/politics/scandals/index.html?intcmp=subnav">Scandals</a></li>
+					<li class="last"><a href="//www.foxnews.com/politics/congress-to-do-list?intcmp=subnav">Congress To-Do List</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">U.S.</a>
+				<ul>
+					<li><a href="/us?intcmp=subnav">U.S. Home</a></li>
+					<li><a href="/us/crime?intcmp=subnav">Crime</a></li>
+					<li><a href="/us/terrorism?intcmp=subnav">Terrorism</a></li>
+					<li><a href="/us/economy?intcmp=subnav">Economy</a></li>
+					<li><a href="/us/immigration?intcmp=subnav">Immigration</a></li>
+					<li><a href="/us/disasters/?intcmp=subnav">Disasters</a></li>
+					<li><a href="/us/military/?intcmp=subnav">Military</a></li>
+					<li><a href="/us/education?intcmp=subnav">Education</a></li>
+					<li><a href="/us/environment?intcmp=subnav">Environment</a></li>
+					<li><a href="/us/personal-freedoms?intcmp=subnav">Personal Freedoms</a></li>
+					<li class="last"><a href="/us/regions?intcmp=subnav">Regions</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Opinion</a>
+				<ul>
+					<li><a href="/opinion?intcmp=subnav">Opinion Home</a></li>
+					<li><a href="//www.foxnews.com/archive/author/todd-starnes?intcmp=subnav">Todd Starnes</a></li>
+					<li><a href="//www.foxnews.com/archive/author/judith-miller?intcmp=subnav">Judith Miller</a></li>
+					<li><a href="//www.foxnews.com/archive/author/juan-williams?intcmp=subnav">Juan Williams</a></li>
+					<li><a href="//www.foxnews.com/archive/author/kt-mcfarland?intcmp=subnav">KT McFarland</a></li>
+					<li><a href="//www.foxnews.com/archive/author/dr-keith-ablow?intcmp=subnav">Dr. Keith Ablow</a></li>
+					<li><a href="//www.foxnews.com/archive/karl-rove?intcmp=subnav">Karl Rove</a></li>
+					<li class="last"><a href="//www.foxnews.com/archive/author/richard-grenell?intcmp=subnav">Ric Grenell</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Entertainment</a>
+				<ul>
+					<li><a href="//www.foxnews.com/entertainment?intcmp=subnav">[FOX411] HOME</a></li>
+					<li><a href="//www.foxnews.com/entertainment/celebrity-news/index.html?intcmp=subnav">Celebrity News</a></li>
+					<li><a href="//www.foxnews.com/entertainment/movies?intcmp=subnav">Movies</a></li>
+					<li><a href="//www.foxnews.com/entertainment/tv?intcmp=subnav">TV</a></li>
+					<li><a href="//www.foxnews.com/entertainment/music?intcmp=subnav">Music</a></li>
+					<li><a href="//www.foxnews.com/entertainment/style?intcmp=subnav">Style</a></li>
+					<li class="last"><a href="//video.foxnews.com/playlist/entertainment-latest-entertainment/?intcmp=subnav">[FOX411] Video</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Tech</a>
+				<ul>
+					<li><a href="/technology?intcmp=subnav">Tech Home</a></li>
+					<li><a href="//www.foxnews.com/tech/gadgets/index.html?intcmp=subnav">Gadgets</a></li>
+					<li><a href="//www.foxnews.com/category/tech/google?intcmp=subnav">Google</a></li>
+					<li><a href="//www.foxnews.com/tech/social?intcmp=subnav">Social</a></li>
+					<li><a href="//www.foxnews.com/tech/military?intcmp=subnav">Military Tech</a></li>
+					<li><a href="//www.foxnews.com/tech/mobile?intcmp=subnav">Smartphones</a></li>
+					<li><a href="//www.foxnews.com/category/tech/video-games?intcmp=subnav">Video Games</a></li>
+					<li class="last"><a href="//www.foxnews.com/tech/slideshows?intcmp=subnav">Slideshows</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Science</a>
+				<ul>
+					<li><a href="/science?intcmp=subnav">Science Home</a></li>
+					<li><a href="/science/archaeology?intcmp=subnav">Archaeology</a></li>
+					<li><a href="/science/air-space?intcmp=subnav">Air &amp; Space</a></li>
+					<li><a href="/science/planet-earth?intcmp=subnav">Planet Earth</a></li>
+					<li><a href="/science/wild-nature?intcmp=subnav">Wild Nature</a></li>
+					<li><a href="/science/natural-science?intcmp=subnav">Natural Science</a></li>
+					<li><a href="/science/dinosaurs?intcmp=subnav">Dinosaurs</a></li>
+					<li class="last"><a href="//www.foxnews.com/science/slideshows?intcmp=subnav">Slideshows</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Health</a>
+				<ul>
+					<li><a href="/health?intcmp=subnav">Health Home</a></li>
+					<li><a href="//www.foxnews.com/category/mens-health?intcmp=subnav">Men's Health</a></li>
+					<li><a href="//www.foxnews.com/category/womens-health?intcmp=subnav">Women's Health</a></li>
+					<li><a href="//www.foxnews.com/category/childrens-health?intcmp=subnav">Children's Health</a></li>
+					<li><a href="//www.foxnews.com/category/alternative-medicine?intcmp=subnav">Alternative Medicine</a></li>
+					<li><a href="//www.foxnews.com/category/health/diabetes?intcmp=subnav">Diabetes</a></li>
+					<li><a href="//www.foxnews.com/category/health/heart-health?intcmp=subnav">Heart Health</a></li>
+					<li><a href="//www.foxnews.com/category/health/allergy?intcmp=subnav">Allergies</a></li>
+					<li class="last"><a href="//www.foxnews.com/category/health/nutrition-and-fitness?intcmp=subnav">Nutrition &amp; Fitness</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Travel</a>
+				<ul>
+					<li><a href="/travel?intcmp=subnav">Travel Home</a></li>
+					<li><a href="//www.foxnews.com/travel/slideshows?intcmp=subnav">Slideshows</a></li>
+					<li class="last"><a href="//www.foxnews.com/travel/in-5-guides?intcmp=subnav">In 5 Guides</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Lifestyle</a>
+				<ul>
+					<li><a href="/lifestyle?intcmp=subnav">Lifestyle Home</a></li>
+					<li><a href="//www.foxnews.com/leisure/auto?intcmp=subnav">Auto</a></li>
+					<li><a href="//www.foxnews.com/leisure/food-drink?intcmp=subnav">Food &amp; Drink</a></li>
+					<li><a href="//www.foxnews.com/leisure/real-estate?intcmp=subnav">Real Estate</a></li>
+					<li><a href="//www.foxnews.com/recipe?intcmp=subnav">Recipes</a></li>
+					<li class="last"><a href="//www.foxnews.com/category/wine-with-me?intcmp=subnav">Wine with Me</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">World</a>
+				<ul>
+					<li><a href="/world?intcmp=subnav">World Home</a></li>
+					<li><a href="/world/united-nations?intcmp=subnav">U.N.</a></li>
+					<li><a href="/world/conflicts?intcmp=subnav">Conflicts</a></li>
+					<li><a href="/world/terrorism?intcmp=subnav">Terrorism</a></li>
+					<li><a href="/world/disasters?intcmp=subnav">Disasters</a></li>
+					<li><a href="/world/global-economy?intcmp=subnav">Global Economy</a></li>
+					<li><a href="/world/environment?intcmp=subnav">Environment</a></li>
+					<li><a href="//www.foxnews.com/world/religion?intcmp=subnav">Religion</a></li>
+					<li><a href="/world/scandals?intcmp=subnav">Scandals</a></li>
+					<li class="last"><a href="/world/regions?intcmp=subnav">Regions</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Sports</a>
+				<ul>
+					<li><a href="/sports?intcmp=subnav">Sports Home</a></li>
+					<li><a href="/sports/football?intcmp=subnav">Football</a></li>
+					<li><a href="/sports/basketball?intcmp=subnav">Basketball</a></li>
+					<li><a href="/sports/hockey?intcmp=subnav">Hockey</a></li>
+					<li><a href="/sports/baseball?intcmp=subnav">Baseball</a></li>
+					<li><a href="//www.foxnews.com/sports/collegesports?intcmp=subnav">College Sports</a></li>
+					<li><a href="/sports/tennis?intcmp=subnav">Tennis</a></li>
+					<li><a href="/sports/nascar?intcmp=subnav">Nascar</a></li>
+					<li><a href="//www.foxnews.com/sports/golf/index.html?intcmp=subnav">Golf</a></li>
+					<li><a href="//www.foxnews.com/sports/moresports?intcmp=subnav">More Sports</a></li>
+					<li class="last"><a href="//www.foxnews.com/sports/stats?intcmp=subnav">Stats</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">On Air</a>
+				<ul>
+					<li><a href="//www.foxnews.com/shows?intcmp=subnav">On Air Home</a></li>
+					<li><a href="//www.foxnews.com/on-air/a-healthy-you-carol-alt">A Healthy You &amp; Carol Alt</a></li>
+					<li><a href="//www.foxnews.com/on-air/americas-news-hq/">America's News HQ</a></li>
+					<li><a href="//www.foxnews.com/on-air/americas-newsroom/">America's Newsroom</a></li>
+					<li><a href="//www.foxnews.com/on-air/your-world-cavuto/">Cavuto</a></li>
+					<li><a href="//www.foxnews.com/on-air/fox-files/">Fox Files</a></li>
+					<li><a href="//www.foxnews.com/on-air/fox-friends/first">Fox &amp; Friends First</a></li>
+					<li><a href="//www.foxnews.com/on-air/fox-friends/">Fox &amp; Friends</a></li>
+					<li><a href="//www.foxnews.com/on-air/fox-and-friends?page=weekend">Fox &amp; Friends Weekend</a></li>
+					<li><a href="//www.foxnews.com/on-air/fox-news-sunday/">Fox News Sunday</a></li>
+					<li><a href="//www.foxnews.com/on-air/geraldo/">Geraldo at Large</a></li>
+					<li><a href="//www.foxnews.com/on-air/on-the-record/">Greta</a></li>
+					<li><a href="//www.foxnews.com/on-air/hannity/">Hannity</a></li>
+					<li><a href="//www.foxnews.com/on-air/happening-now/">Happening Now</a></li>
+					<li><a href="//www.foxnews.com/on-air/huckabee/">Huckabee</a></li>
+					<li><a href="//www.foxnews.com/on-air/justice-jeanine/">Justice with Judge Jeanine</a></li>
+					<li><a href="//www.foxnews.com/on-air/media-buzz/">#mediabuzz</a></li>
+					<li><a href="//www.foxnews.com/on-air/outnumbered/">Outnumbered</a></li>
+					<li><a href="//www.foxnews.com/on-air/red-eye/">Red Eye w/ Gutfeld</a></li>
+					<li><a href="//www.foxnews.com/on-air/shepard-smith/">Shepard Smith Reporting</a></li>
+					<li><a href="//www.foxnews.com/on-air/special-report/">Special Report</a></li>
+					<li><a href="//www.foxnews.com/on-air/fox-news-reporting/">Specials</a></li>
+					<li><a href="//www.foxnews.com/on-air/sunday-morning-futures/index.html">Sunday Morning Futures with Maria Bartiromo</a></li>
+					<li><a href="//www.foxnews.com/on-air/cost-of-freedom/">The Cost of Freedom</a></li>
+					<li><a href="//www.foxnews.com/on-air/the-five/">The Five</a></li>
+					<li><a href="//www.foxnews.com/on-air/journal-editorial-report/">The Journal Editorial Report</a></li>
+					<li><a href="//www.foxnews.com/shows/the-kelly-file.html">The Kelly File</a></li>
+					<li><a href="//www.foxnews.com/on-air/oreilly/">The O'Reilly Factor</a></li>
+					<li><a href="//www.foxnews.com/on-air/the-real-story-with-gretchen-carlson">The Real Story w/ Gretchen Carlson</a></li>
+					<li class="last"><a href="//www.foxnews.com/on-air/war-stories/">War Stories</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">More from Fox News</a>
+				<ul>
+					<li><a href="//www.foxnews.com/?intcmp=subnav">Fox News</a></li>
+					<li><a href="//www.foxbusiness.com?intcmp=subnav">Fox Business</a></li>
+					<li><a href="//latino.foxnews.com?intcmp=subnav">Fox News Latino</a></li>
+					<li><a href="//www.foxnewsgo.com?intcmp=subnav">Fox News Go</a></li>
+					<li><a href="//radio.foxnews.com?intcmp=subnav">Fox News Radio</a></li>
+					<li><a href="//nation.foxnews.com?intcmp=subnav">Fox Nation</a></li>
+					<li class="last"><a href="//foxnewsinsider.com?intcmp=subnav">Fox News Insider</a></li>
+				</ul>
+			</li>
+		</ul>
+	</nav>
+</div><!-- /drawer --><div id="wrapper">
+			<nav id="network">
+	<div>
+		<ul>
+			<li class="fn active"><a href="//foxnews.com"><span><span>Fox News</span></span></a></li>
+			<li class="fb"><a href="//foxbusiness.com"><span><span>Fox Business</span></span></a></li>
+			<li class="lat"><a href="//latino.foxnews.com"><span><span>Fox News Latino</span></span></a></li>
+			<li class="fn-go"><a href="//www.foxnewsgo.com"><span><span>Fox News Go</span></span></a></li>
+			<li class="fnr"><a href="//radio.foxnews.com"><span><span>Fox News Radio</span></span></a></li>
+			<li class="nat"><a href="//nation.foxnews.com"><span><span>Fox Nation</span></span></a></li>
+			<li class="fni"><a href="//foxnewsinsider.com/"><span><span>Fox News Insider</span></span></a></li>
+		</ul>
+		<div id="account"></div><!-- /account -->
+	</div>
+</nav><!-- /network --><div class="mod-ad-4 ad-container"><div class="ad gpt" id="mobile-320x50"></div></div><!-- /ad -->
+				<header id="top" class="fn">
+	<a class="drawer" href="#">
+		<span><span></span></span>
+		<b>Menu</b>
+	</a>
+	<div>
+		<a href="//www.foxnews.com?intcmp=home_button" class="home">Home</a>
+		<div class="branding"><a href="//www.foxnews.com?intcmp=logo">FoxNews.com</a></div>
+		<h1 data-text="Politics"><a href="/politics/index.html">Politics</a></h1>
+		<form action="http://www.foxnews.com/search-results/search"  method="get">
+			<fieldset class="search">
+				<legend>Search</legend>
+				<input type="text" value="Search foxnews.com" name="q" class="resp_site_search">
+			</fieldset>
+		</form>
+	</div>
+</header><!-- /header --><div id="takeover">
+				<div id="doc">
+					<div><div><div class="mod-ad-1 ad-container">
+ <div class="ad gpt" id="desktop-728x90"></div>
+   </div>
+</div></div><div id="content">
+<div>
+	<div class="alert"></div>
+	<div><div><nav id="sub" data-track-zone="subnav">
+		<ul>
+			<li>
+				<a href="/politics/index.html">
+					Politics Home</a>
+			</li>
+			<li>
+				<a href="http://www.foxnews.com/politics/elections/2014/2014-midterm-elections">
+					Midterm Elections</a>
+			</li>
+			<li>
+				<a href="http://www.foxnews.com/category/politics/presidential">
+					Election 2016</a>
+			</li>
+			<li>
+				<a href="/politics/executive-branch/index.html">
+					Executive</a>
+			</li>
+			<li>
+				<a href="/politics/senate/index.html">
+					Senate</a>
+			</li>
+			<li>
+				<a href="/politics/house/index.html">
+					House</a>
+			</li>
+			<li>
+				<a href="/politics/defense/index.html">
+					Defense</a>
+			</li>
+			<li>
+				<a href="/politics/judiciary/index.html">
+					Judiciary</a>
+			</li>
+			<li>
+				<a href="/politics/scandals/index.html">
+					Scandals</a>
+			</li>
+			</ul>
+	</nav>
+</div></div><div><div><section class="mod-1" >
+			<article itemscope itemtype="http://schema.org/NewsArticle" itemid="">
+				<a href="http://www.foxnews.com/politics/2014/12/11/house-gop-leaders-delay-vote-on-spending-bill-scramble-for-support/">
+				  <div class="m" itemprop="associatedMedia" itemscope itemtype="http://schema.org/MediaObject">
+							<img src="http://global.fncstatic.com/static/managed/img/Politics/boehner_pelbanner.jpg" alt="House Republican leaders and the Obama White House formed an unlikely alliance late Thursday as they scrambled to secure the votes for a $. trillion spending bill, ahead of a midnight deadline." itemprop="associatedMedia" itemscope itemtype="http://schema.org/MediaObject">
+						</div>
+					</a>
+				<h2><a href="http://www.foxnews.com/category/politics/domestic-policies">Domestic Policies</a></h2>
+				<h1 itemprop="headline"><a href="http://www.foxnews.com/politics/2014/12/11/house-gop-leaders-delay-vote-on-spending-bill-scramble-for-support/">Obama, GOP leaders join forces in push for spending bill as Pelosi flexes clout</a></h1>
+				<div itemprop="articleBody">
+						House Republican leaders and the Obama White House formed an unlikely alliance late Thursday as they scrambled to secure the votes for a $1.1 trillion spending bill, ahead of a midnight deadline.</div>
+				</article>
+	</section><!-- /mod-1 -->
+</div><div><section class="mod-2">
+<header><h2>
+				    What We&#039;re Covering Today</h2>
+			     </header><ul>
+		<li class="article-ct ">
+			 	<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+			 	<a href="http://www.foxnews.com/politics/2014/12/11/brennan-defends-cia-interrogation-program-challenges-senate-report/" target="">
+			 		<h4>&#039;frustrating&#039;</h4>
+							<div itemtype="http://schema.org/MediaObject" itemscope="" class="m">
+									<img itemprop="image" alt="CIA Director John Brennan on Thursday delivered a lengthy and detailed defense of his agency's post-/ interrogation techniques, reminding the nation that agents used the tactics in pursuit of a single goal -- preventing another devastating terror attack." src="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/Politics/165/93/brennan_john_121114.jpg?ve=1&tl=1">
+								</div>
+							<h3 itemprop="headline">Brennan defends CIA interrogation program, challenges Senate report</h3>
+							</a>
+				</article>
+				</li>
+			  <li class="article-ct ">
+			 	<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+			 	<a href="http://www.foxnews.com/politics/2014/12/11/cities-ending-free-parking-for-drivers-with-handicapped-tags-critics-cry-foul/" target="">
+			 		<h4>End of an Era?</h4>
+							<div itemtype="http://schema.org/MediaObject" itemscope="" class="m">
+									<img itemprop="image" alt="Portland, Ore., is the latest city to make drivers pay to park, even if they have a handicapped tag." src="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/fn2/video/165/93/121114_springer_placards2_640.jpg?ve=1&tl=1">
+								</div>
+							<h3 itemprop="headline">Cities ending free parking for drivers with handicapped tags, critics cry foul</h3>
+							</a>
+				</article>
+				</li>
+			  <li class="article-ct ">
+			 	<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+			 	<a href="http://www.foxnews.com/politics/2014/12/11/liberal-worries-grow-about-obama-power-plays/" target="">
+			 		<h4>Fox News First</h4>
+							<div itemtype="http://schema.org/MediaObject" itemscope="" class="m">
+									<img itemprop="image" alt="Less than  percent of voters approve of how Obama went about granting temporary amnesty" src="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/fn2/video/165/93/121014_hannity_obama_640.jpg?ve=1&tl=1">
+								</div>
+							<h3 itemprop="headline">Liberal worries grow about Obama power plays</h3>
+							</a>
+				</article>
+				</li>
+			  <li class="article-ct ">
+			 	<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+			 	<a href="http://www.foxnews.com/politics/2014/12/10/navy-buys-100-drones-for-swarm-vs-swarm-training-exercise/" target="">
+			 		<h4>Navy Quidditch</h4>
+							<div itemtype="http://schema.org/MediaObject" itemscope="" class="m">
+									<img itemprop="image" alt="A naval school is buying  drones that will battle each other in a sky-filling swarm of remotely controlled action." src="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/Politics/165/93/drone_battle.jpg?ve=1&tl=1">
+								</div>
+							<h3 itemprop="headline">Navy buys 100 drones for &#039;swarm vs. swarm&#039; training exercise</h3>
+							</a>
+				</article>
+				</li>
+			  <li class="article-ct ">
+			 	<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+			 	<a href="http://www.foxnews.com/politics/2014/12/11/torture-debate-familiar-clash-with-media-outrage-on-both-sides/" target="">
+			 		<h4>Kurtz&#039; Media Buzz</h4>
+							<div itemtype="http://schema.org/MediaObject" itemscope="" class="m">
+									<img itemprop="image" alt="There is little question how the Senate report on the CIA played in the major newspapers." src="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/fn2/video/165/93/121014_kurtz_torture_640.jpg?ve=1&tl=1">
+								</div>
+							<h3 itemprop="headline">Torture debate: A familiar clash with media outrage on both sides</h3>
+							</a>
+				</article>
+				</li>
+			  </ul>
+	</section>
+</div><div><div class="mod-ad-2 ad-container">
+ <div class="ad gpt" id="desktop-300x600_300x250"></div>
+   <p class="advert-txt">Advertisement</p>
+	   </div>
+</div><div><div class="mod-ad-7 ad-container">
+ <div class="ad gpt" id="tablet-300x250"></div>
+   <p class="advert-txt">Advertisement</p>
+	   </div>
+</div><div><div class="mod-ad-8 ad-container">
+ <div class="ad gpt" id="mobile-300x250"></div>
+   <p class="advert-txt">Advertisement</p>
+	   </div>
+</div><div><section class="mod-3">
+	<div class="c-latest">
+		<ul>
+		<li class="article-ct">
+				<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+					<a href="http://www.foxnews.com/politics/2014/12/11/americans-for-prosperity-sues-calif-ag-for-putting-donors-safety-at-risk/">
+						</a>
+					<div>
+						<h4><a href="http://www.foxnews.com/politics/index.html">Politics</a></h4>
+			  			<a href="http://www.foxnews.com/politics/2014/12/11/americans-for-prosperity-sues-calif-ag-for-putting-donors-safety-at-risk/">
+							<h3 itemprop="headline">Conservative group sues California AG over donor list demands, &#039;bullying&#039;</h3>
+							</a>
+
+						</div>
+				</article>
+				<meta itemprop="datePublished" content="2014-12-11T21:59:44Z">
+</li>
+			<li class="article-ct">
+				<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+					<a href="http://www.foxnews.com/politics/2014/12/11/house-gop-leaders-delay-vote-on-spending-bill-scramble-for-support/">
+						</a>
+					<div>
+						<h4><a href="http://www.foxnews.com/category/politics/domestic-policies">Domestic Policies</a></h4>
+			  			<a href="http://www.foxnews.com/politics/2014/12/11/house-gop-leaders-delay-vote-on-spending-bill-scramble-for-support/">
+							<h3 itemprop="headline">Obama, GOP leaders join forces in push for spending bill as Pelosi flexes clout</h3>
+							</a>
+
+						</div>
+				</article>
+				<meta itemprop="datePublished" content="2014-12-11T21:03:33Z">
+</li>
+			<li class="article-ct">
+				<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+					<a href="http://www.foxnews.com/politics/2014/12/11/fox-news-poll-70-percent-want-congress-to-keep-probing-irs/">
+						<div itemtype="http://schema.org/MediaObject" itemscope="" itemprop="associatedMedia" class="m">
+								<img itemprop="image" alt="Dana Blanton" src="http://global.fncstatic.com/static/managed/img/Politics/128x128-dana-blanton.jpg">
+							</div>
+						</a>
+					<div>
+						<h4><a href="http://www.foxnews.com/category/politics/senate-hearings">Hearings</a></h4>
+			  			<a href="http://www.foxnews.com/politics/2014/12/11/fox-news-poll-70-percent-want-congress-to-keep-probing-irs/">
+							<h3 itemprop="headline">Fox News Poll: 70 percent want Congress to keep probing IRS </h3>
+							</a>
+
+						<p itemtype="http://schema.org/Person" itemscope="" itemprop="author">
+								by <span itemprop="name"><a href ="http://www.foxnews.com/archive/author/dana-blanton/index.html">Dana Blanton</a></span>
+									</p>
+						</div>
+				</article>
+				<meta itemprop="datePublished" content="2014-12-11T20:19:04Z">
+</li>
+			<li class="article-ct">
+				<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+					<a href="http://www.foxnews.com/politics/2014/12/11/fox-news-poll-voters-say-make-white-house-staff-testify-on-benghazi/">
+						<div itemtype="http://schema.org/MediaObject" itemscope="" itemprop="associatedMedia" class="m">
+								<img itemprop="image" alt="Dana Blanton" src="http://global.fncstatic.com/static/managed/img/Politics/128x128-dana-blanton.jpg">
+							</div>
+						</a>
+					<div>
+						<h4><a href="http://www.foxnews.com/category/politics/threats">Threats</a></h4>
+			  			<a href="http://www.foxnews.com/politics/2014/12/11/fox-news-poll-voters-say-make-white-house-staff-testify-on-benghazi/">
+							<h3 itemprop="headline">Fox News Poll: Voters say make White House staff testify on Benghazi</h3>
+							</a>
+
+						<p itemtype="http://schema.org/Person" itemscope="" itemprop="author">
+								by <span itemprop="name"><a href ="http://www.foxnews.com/archive/author/dana-blanton/index.html">Dana Blanton</a></span>
+									</p>
+						</div>
+				</article>
+				<meta itemprop="datePublished" content="2014-12-11T20:08:50Z">
+</li>
+			<li class="article-ct">
+				<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+					<a href="http://www.foxnews.com/politics/2014/12/11/brennan-defends-cia-interrogation-program-challenges-senate-report/">
+						</a>
+					<div>
+						<h4><a href="http://www.foxnews.com/category/us/al-qaeda">Al Qaeda</a></h4>
+			  			<a href="http://www.foxnews.com/politics/2014/12/11/brennan-defends-cia-interrogation-program-challenges-senate-report/">
+							<h3 itemprop="headline">Brennan defends CIA interrogation program, challenges Senate report</h3>
+							</a>
+
+						</div>
+				</article>
+				<meta itemprop="datePublished" content="2014-12-11T19:45:43Z">
+</li>
+			<li class="article-ct">
+				<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+					<a href="http://www.foxnews.com/politics/2014/12/11/cities-ending-free-parking-for-drivers-with-handicapped-tags-critics-cry-foul/">
+						<div itemtype="http://schema.org/MediaObject" itemscope="" itemprop="associatedMedia" class="m">
+								<img itemprop="image" alt="Dan Springer" src="http://global.fncstatic.com/static/managed/img/News/128x128-dan-springer.jpg">
+							</div>
+						</a>
+					<div>
+						<h4><a href="http://www.foxnews.com/category/politics/cities">Cities</a></h4>
+			  			<a href="http://www.foxnews.com/politics/2014/12/11/cities-ending-free-parking-for-drivers-with-handicapped-tags-critics-cry-foul/">
+							<h3 itemprop="headline">Cities ending free parking for drivers with handicapped tags, critics cry foul</h3>
+							</a>
+
+						<p itemtype="http://schema.org/Person" itemscope="" itemprop="author">
+								by <span itemprop="name"><a href ="http://www.foxnews.com/archive/author/dan-springer/index.html">Dan Springer</a></span>
+									</p>
+						</div>
+				</article>
+				<meta itemprop="datePublished" content="2014-12-11T18:25:16Z">
+</li>
+			<li class="article-ct">
+				<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+					<a href="http://www.foxnews.com/politics/2014/12/11/senate-committee-votes-to-authorize-war-against-isis/">
+						</a>
+					<div>
+						<h4><a href="http://www.foxnews.com/category/politics/senate-foreign-policy">Foreign Policy</a></h4>
+			  			<a href="http://www.foxnews.com/politics/2014/12/11/senate-committee-votes-to-authorize-war-against-isis/">
+							<h3 itemprop="headline">Senate committee votes to authorize war against ISIS</h3>
+							</a>
+
+						</div>
+				</article>
+				<meta itemprop="datePublished" content="2014-12-11T17:40:50Z">
+</li>
+			<li class="article-ct">
+				<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+					<a href="http://www.foxnews.com/politics/2014/12/11/massive-defense-bill-clears-senate-hurdle/">
+						</a>
+					<div>
+						<h4><a href="http://www.foxnews.com/category/politics/pentagon">Pentagon</a></h4>
+			  			<a href="http://www.foxnews.com/politics/2014/12/11/massive-defense-bill-clears-senate-hurdle/">
+							<h3 itemprop="headline">Massive defense bill clears Senate hurdle</h3>
+							</a>
+
+						</div>
+				</article>
+				<meta itemprop="datePublished" content="2014-12-11T16:26:31Z">
+</li>
+			<li class="article-ct">
+				<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+					<a href="http://www.foxnews.com/politics/2014/12/11/liberal-worries-grow-about-obama-power-plays/">
+						<div itemtype="http://schema.org/MediaObject" itemscope="" itemprop="associatedMedia" class="m">
+								<img itemprop="image" alt="Chris Stirewalt" src="http://global.fncstatic.com/static/managed/img/Politics/128x128-chris-stirewalt.jpg">
+							</div>
+						</a>
+					<div>
+						<h4><a href="http://www.foxnews.com/category/fox-news-first">Fox News First</a></h4>
+			  			<a href="http://www.foxnews.com/politics/2014/12/11/liberal-worries-grow-about-obama-power-plays/">
+							<h3 itemprop="headline">Liberal worries grow about Obama power plays</h3>
+							</a>
+
+						<p itemtype="http://schema.org/Person" itemscope="" itemprop="author">
+								by <span itemprop="name"><a href ="http://www.foxnews.com/archive/author/chris-stirewalt/index.html">Chris Stirewalt</a></span>
+									</p>
+						</div>
+				</article>
+				<meta itemprop="datePublished" content="2014-12-11T15:28:12Z">
+</li>
+			<li class="article-ct">
+				<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+					<a href="http://www.foxnews.com/politics/2014/12/11/former-mayor-may-have-spent-75000-in-taxpayer-money-on-himself/">
+						</a>
+					<div>
+						<h4><a href="http://www.foxnews.com/category/politics/cities">Cities</a></h4>
+			  			<a href="http://www.foxnews.com/politics/2014/12/11/former-mayor-may-have-spent-75000-in-taxpayer-money-on-himself/">
+							<h3 itemprop="headline">Audit: Former mayor may have spent $75,000 in taxpayer money on himself</h3>
+							</a>
+
+						</div>
+				</article>
+				<meta itemprop="datePublished" content="2014-12-11T13:41:56Z">
+</li>
+			<li class="special">
+					<section class="power-play">
+	<header>
+		<div>
+			<div class="title">
+				<h2>Power Play</h2>
+				<p>High voltage politics from Chris Stirewalt</p>
+			</div>
+			<a href="http://video.foxnews.com/playlist/digital-originals-power-play/">More from Power Play &#8594;</a>
+		</div>
+	</header>
+	<div class="content">
+	    <div>
+			<div class="homepage-video">
+				<a href="http://video.foxnews.com/v/3934044653001/power-play-shutdown-squeeze-playin-60-seconds/" style="display: block; visibility: visible; padding: 0px; position: relative;">
+					<span class="vid-overlay">
+						<img style="position: absolute; display: inline; right: 9px; bottom: 9px; width: 64px; min-height: 64px;" src="http://global.fncstatic.com/static/v/all/img/vp-overlay-64.png">
+					</span>
+					<img src="http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/121014/640/360/121014_pp_squeeze_640.jpg" style="width: 277px; height: 156px; opacity: 1;">
+					<a href="http://video.foxnews.com/v/3934044653001/power-play-shutdown-squeeze-playin-60-seconds/">POWER PLAY: SHUTDOWN SQUEEZE PLAY…IN 60 SECONDS</a>
+				</a>
+				<meta itemprop="datePublished" content="2014-12-10T12:51:57Z">
+</div>
+
+			<ul class="articles">
+				<li class="video-ct">
+						<article itemid itemtype="http://schema.org/NewsArticle" itemscope="">
+							<div>
+					  			<a href="http://video.foxnews.com/v/3929602615001/power-play-2016-and-hillary-/">
+									<h3 itemprop="headline">
+										POWER PLAY: 2016 and Hillary</h3>
+								</a>
+							</div>
+						</article>
+						<meta itemprop="datePublished" content="2014-12-08T13:01:15Z">
+</li>
+				<li class="video-ct">
+						<article itemid itemtype="http://schema.org/NewsArticle" itemscope="">
+							<div>
+					  			<a href="http://video.foxnews.com/v/3923290678001/power-play-amnesty-apps-in-the-pipeline/">
+									<h3 itemprop="headline">
+										Power Play: Amnesty Apps in the Pipeline</h3>
+								</a>
+							</div>
+						</article>
+						<meta itemprop="datePublished" content="2014-12-04T13:02:30Z">
+</li>
+				<li class="video-ct">
+						<article itemid itemtype="http://schema.org/NewsArticle" itemscope="">
+							<div>
+					  			<a href="http://video.foxnews.com/v/3921037139001/power-play-harry-reid-plays-the-grinchin-60-seconds/">
+									<h3 itemprop="headline">
+										Power Play: Harry Reid plays the grinch...in 60 seconds</h3>
+								</a>
+							</div>
+						</article>
+						<meta itemprop="datePublished" content="2014-12-03T12:40:57Z">
+</li>
+				</ul>
+		</div>
+	</div>
+</section>
+</li>
+			<li class="article-ct">
+				<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+					<a href="http://www.foxnews.com/politics/2014/12/11/house-leaders-scramble-for-votes-on-spending-bill-as-problems-erupt/">
+						<div itemtype="http://schema.org/MediaObject" itemscope="" itemprop="associatedMedia" class="m">
+								<img itemprop="image" alt="Chad Pergram" src="http://global.fncstatic.com/static/managed/img/FB/128x128-chad-pergram.jpg">
+							</div>
+						</a>
+					<div>
+						<h4><a href="http://www.foxnews.com/category/capitol-attitude">Capitol Attitude</a></h4>
+			  			<a href="http://www.foxnews.com/politics/2014/12/11/house-leaders-scramble-for-votes-on-spending-bill-as-problems-erupt/">
+							<h3 itemprop="headline">House GOP leaders scramble for votes on spending bill, as problems erupt</h3>
+							</a>
+
+						<p itemtype="http://schema.org/Person" itemscope="" itemprop="author">
+								by <span itemprop="name"><a href ="http://www.foxnews.com/archive/author/chad-pergram/index.html">Chad Pergram</a></span>
+									</p>
+						</div>
+				</article>
+				<meta itemprop="datePublished" content="2014-12-11T13:07:59Z">
+</li>
+			<li class="article-ct">
+				<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+					<a href="http://www.foxnews.com/politics/2014/12/11/detroit-exits-bankruptcy-mayor-says-enormous-challenges-remain/">
+						</a>
+					<div>
+						<h4><a href="http://www.foxnews.com/politics/state-local/index.html">State &amp; Local </a></h4>
+			  			<a href="http://www.foxnews.com/politics/2014/12/11/detroit-exits-bankruptcy-mayor-says-enormous-challenges-remain/">
+							<h3 itemprop="headline">Detroit exits bankruptcy, mayor says &#039;enormous challenges&#039; remain</h3>
+							</a>
+
+						</div>
+				</article>
+				<meta itemprop="datePublished" content="2014-12-11T12:37:04Z">
+</li>
+			<li class="article-ct">
+				<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+					<a href="http://www.foxnews.com/politics/2014/12/11/torture-debate-familiar-clash-with-media-outrage-on-both-sides/">
+						<div itemtype="http://schema.org/MediaObject" itemscope="" itemprop="associatedMedia" class="m">
+								<img itemprop="image" alt="Howard Kurtz" src="http://global.fncstatic.com/static/managed/img/FB/128x128-howard-kurtz.jpg">
+							</div>
+						</a>
+					<div>
+						<h4><a href="http://www.foxnews.com/category/media-buzz">Media Buzz</a></h4>
+			  			<a href="http://www.foxnews.com/politics/2014/12/11/torture-debate-familiar-clash-with-media-outrage-on-both-sides/">
+							<h3 itemprop="headline">Torture debate: A familiar clash with media outrage on both sides</h3>
+							</a>
+
+						<p itemtype="http://schema.org/Person" itemscope="" itemprop="author">
+								by <span itemprop="name"><a href ="http://www.foxnews.com/archive/author/howard-kurtz/index.html">Howard Kurtz</a></span>
+									</p>
+						</div>
+				</article>
+				<meta itemprop="datePublished" content="2014-12-11T10:58:55Z">
+</li>
+			<li class="article-ct">
+				<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+					<a href="http://www.foxnews.com/politics/2014/12/10/navy-buys-100-drones-for-swarm-vs-swarm-training-exercise/">
+						</a>
+					<div>
+						<h4><a href="http://www.foxnews.com/politics/index.html">Politics</a></h4>
+			  			<a href="http://www.foxnews.com/politics/2014/12/10/navy-buys-100-drones-for-swarm-vs-swarm-training-exercise/">
+							<h3 itemprop="headline">Navy buys 100 drones for &#039;swarm vs. swarm&#039; training exercise</h3>
+							</a>
+
+						</div>
+				</article>
+				<meta itemprop="datePublished" content="2014-12-11T09:20:14Z">
+</li>
+			<li class="article-ct">
+				<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+					<a href="http://www.foxnews.com/politics/2014/12/11/state-department-failing-to-turn-over-hillary-clinton-files/">
+						</a>
+					<div>
+						<h4><a href="http://www.foxnews.com/category/politics/cabinet">Cabinet</a></h4>
+			  			<a href="http://www.foxnews.com/politics/2014/12/11/state-department-failing-to-turn-over-hillary-clinton-files/">
+							<h3 itemprop="headline">State Department &#039;stonewalling&#039; requests for Hillary Clinton&#039;s files</h3>
+							</a>
+
+						</div>
+				</article>
+				<meta itemprop="datePublished" content="2014-12-11T09:00:31Z">
+</li>
+			<li class="article-ct">
+				<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+					<a href="http://www.foxnews.com/politics/2014/12/11/44b-giveaway-congress-prepares-to-extend-tax-breaks-for-horse-owners-green/">
+						</a>
+					<div>
+						<h4><a href="http://www.foxnews.com/politics/house/index.html">House of Representatives</a></h4>
+			  			<a href="http://www.foxnews.com/politics/2014/12/11/44b-giveaway-congress-prepares-to-extend-tax-breaks-for-horse-owners-green/">
+							<h3 itemprop="headline">Congress prepares to extend tax breaks for horse owners, film industry and more</h3>
+							</a>
+
+						<p itemtype="http://schema.org/Person" itemscope="" itemprop="author">
+								by <span itemprop="name"><a href ="http://www.foxnews.com/archive/author/laura-prabucki/index.html">Laura Prabucki, </a></span>
+									<span itemprop="name"><a href ="http://www.foxnews.com/archive/author/william-la-jeunesse/index.html">William La Jeunesse</a></span>
+									</p>
+						</div>
+				</article>
+				<meta itemprop="datePublished" content="2014-12-11T09:00:12Z">
+</li>
+			<li class="article-ct">
+				<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+					<a href="http://www.foxnews.com/politics/2014/12/11/most-americans-agree-obama-gop-congress-cannot-work-together-poll-says/">
+						</a>
+					<div>
+						<h4><a href="http://www.foxnews.com/politics/executive/index.html">Executive</a></h4>
+			  			<a href="http://www.foxnews.com/politics/2014/12/11/most-americans-agree-obama-gop-congress-cannot-work-together-poll-says/">
+							<h3 itemprop="headline">Most Americans agree Obama, GOP Congress cannot work together, poll says</h3>
+							</a>
+
+						</div>
+				</article>
+				<meta itemprop="datePublished" content="2014-12-11T08:04:59Z">
+</li>
+			<li class="article-ct">
+				<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+					<a href="http://www.foxnews.com/politics/2014/12/10/harry-reid-healthcaregov-glitches-are-only-thing-holding-democrats-back/">
+						</a>
+					<div>
+						<h4><a href="http://www.foxnews.com/politics/index.html">Politics</a></h4>
+			  			<a href="http://www.foxnews.com/politics/2014/12/10/harry-reid-healthcaregov-glitches-are-only-thing-holding-democrats-back/">
+							<h3 itemprop="headline">Harry Reid: HealthCare.gov glitches are the only thing holding Democrats back</h3>
+							</a>
+
+						</div>
+				</article>
+				<meta itemprop="datePublished" content="2014-12-11T08:00:41Z">
+</li>
+			<li class="article-ct">
+				<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+					<a href="http://www.foxnews.com/politics/2014/12/11/congress-approves-sanctions-on-venezuelan-leaders/">
+						</a>
+					<div>
+						<h4><a href="http://www.foxnews.com/politics/index.html">Politics</a></h4>
+			  			<a href="http://www.foxnews.com/politics/2014/12/11/congress-approves-sanctions-on-venezuelan-leaders/">
+							<h3 itemprop="headline">Congress approves sanctions on Venezuelan leaders</h3>
+							</a>
+
+						</div>
+				</article>
+				<meta itemprop="datePublished" content="2014-12-11T05:54:17Z">
+</li>
+			<li class="article-ct">
+				<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+					<a href="http://www.foxnews.com/politics/2014/12/11/more-than-40-million-americans-have-unpaid-medical-bills/">
+						</a>
+					<div>
+						<h4><a href="http://www.foxnews.com/politics/index.html">Politics</a></h4>
+			  			<a href="http://www.foxnews.com/politics/2014/12/11/more-than-40-million-americans-have-unpaid-medical-bills/">
+							<h3 itemprop="headline">More than 40 million Americans have unpaid medical bills</h3>
+							</a>
+
+						</div>
+				</article>
+				<meta itemprop="datePublished" content="2014-12-11T05:41:49Z">
+</li>
+			</ul>
+	</div>
+	<a class="load" href="#">Load more stories &#8595;</a>
+	</section><!-- /mod-3 -->
+</div></div><div id="rail">
+		<div><div><div class="c t--1ms"  >
+		<div class="c-item c-item-first c-item-last">
+				<section class="mod-20"  id="congress-to-do-list">
+	<header>
+			<h2>
+				<span>Fox News</span>
+				<a href="">Congress’ To-Do-List</a>
+			</h2>
+		</header>
+	<a href="http://www.foxnews.com/politics/congress-to-do-list">
+			<ul>
+				<li>
+					<img src="http://global.fncstatic.com/static/managed/img/Politics/congress-todolist-comp.png">
+				</li>
+				<li>
+					<span>Keep track of the biggest issues in the</span>
+					<span>113th Congress, vote by vote.</span>
+				</li>
+			</ul>
+		</a>
+	<div class="ad gpt" id="contodo-88x31"></div>
+	</section>
+</div>
+		</div>
+   </div><div><section class="mod-4">
+	<header>
+			<h2>ON OUR RADAR</h2>
+			<h5>Highlights from around the web</h5>
+			</header>
+	<ul>
+		<li class="x-ct">
+				<a href="http://townhall.com/tipsheet/katiepavlich/2014/12/11/for-first-time-pew-poll-shows-americans-support-gun-rights-more-than-gun-control-n1930498" target="_blank" > <!-- -This should oprn in pop up  -->
+					<h3 itemprop="headline">Pew Poll: Americans support gun rights more than gun control</h3>
+					<span>www.townhall.com</span><!-- shuld get from author of the feed http://drupal7.tools.foxnews.com/taxonomy/fox-news-politics-on-our-radar/feed/rss -->
+				</a>
+			 </li>
+		<li class="x-ct">
+				<a href="http://www.wsj.com/articles/oil-sees-slight-recovery-as-markets-catch-breath-1418297843?mod=WSJ_hp_LEFTTopStories%20" target="_blank" > <!-- -This should oprn in pop up  -->
+					<h3 itemprop="headline">Oil slides to fresh lows</h3>
+					<span>www.wsj.com</span><!-- shuld get from author of the feed http://drupal7.tools.foxnews.com/taxonomy/fox-news-politics-on-our-radar/feed/rss -->
+				</a>
+			 </li>
+		<li class="x-ct">
+				<a href="http://cnsnews.com/news/article/terence-p-jeffrey/404155000000-taxes-set-record-first-2-months-fy15-deficit-still-179b" target="_blank" > <!-- -This should oprn in pop up  -->
+					<h3 itemprop="headline">$404,155,000,000: Taxes set record in first 2 months of FY15</h3>
+					<span>www.cnsnews.com</span><!-- shuld get from author of the feed http://drupal7.tools.foxnews.com/taxonomy/fox-news-politics-on-our-radar/feed/rss -->
+				</a>
+			 </li>
+		<li class="x-ct">
+				<a href="http://www.washingtonpost.com/business/economy/warren-leads-liberal-democrats-rebellion-over-provisions-in-1-trillion-spending-bill/2014/12/10/c5c915e4-80b5-11e4-9f38-95a187e4c1f7_story.html%20" target="_blank" > <!-- -This should oprn in pop up  -->
+					<h3 itemprop="headline">Warren leads liberal Democrats&#039; rebellion over provisions in $1 trillion spending bill</h3>
+					<span>www.washingtonpost.com</span><!-- shuld get from author of the feed http://drupal7.tools.foxnews.com/taxonomy/fox-news-politics-on-our-radar/feed/rss -->
+				</a>
+			 </li>
+		<li class="x-ct">
+				<a href="http://www.thedailybeast.com/articles/2014/12/10/how-republicans-won-the-war-on-women.html%20" target="_blank" > <!-- -This should oprn in pop up  -->
+					<h3 itemprop="headline">Surprise! The GOP closed the gender gap</h3>
+					<span>www.thedailybeast.com</span><!-- shuld get from author of the feed http://drupal7.tools.foxnews.com/taxonomy/fox-news-politics-on-our-radar/feed/rss -->
+				</a>
+			 </li>
+		</ul>
+	</section>
+</div><div><section class="mod-10">
+<header><h2>
+				    <a href="http://nation.foxnews.com/poll/index.html">QUESTION OF THE DAY</a></h2>
+			     </header><div class="poll" data-widget-type="poll" data-affiliate-id="3634761" data-is-sponsored="false" data-poll-id=""></div>
+	</section>
+</div><div><div class="mod-ad-6">
+ <div class="ad cu" id="cu_front_7"></div>
+   <script>try {jQuery.ad.goog.adsense.embed({qid:"front_7"}); } catch(err) { }</script>
+	   </div>
+</div><div><div class="mod-ad-3 ad-container">
+ <div class="ad gpt" id="desktop-300x251"></div>
+   <p class="advert-txt">Advertisement</p>
+	   </div>
+</div></div></div>
+	<div><div><section class="mod-17" >
+	<div id="connect">
+	<header>
+		    <h2>
+				    Fox News First Newsletter</h2>
+		     <p>Daily must-read stories from the biggest name in politics</p></header>
+	<div>
+			<div>
+				<h2>Today</h2>
+				<a href="http://www.foxnews.com/politics/2014/12/11/liberal-worries-grow-about-obama-power-plays/">
+					<h3 itemprop="headline">Liberal worries grow about Obama power plays</h3>
+					</a>
+			</div>
+			<form data-list="politics">
+				<fieldset>
+					<legend>Subscribe</legend>
+					<input type="text" value="Enter your email address">
+					<input type="submit" value="Subscribe &#8594;">
+					<input type="hidden" name="SLID" value="3DC725E303A24F8DA102192D9D5143D9">
+					<i>Get the full text emailed to you daily</i>
+				</fieldset>
+			</form>
+		</div>
+	</div><!-- /connect -->
+</section>
+</div><div><section class="mod-5" id="channel">
+<header><h2>
+				    FROM THE CHANNEL</h2>
+			     </header><ul>
+		<li class="x-ct ">
+			 	<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+			 	<a href="http://video.foxnews.com/v/3935386282001/special-report-online-121014/?playlist_id=930909819001" target="">
+			 		<header></header>
+					<div itemtype="http://schema.org/MediaObject" itemscope="" class="m">
+									<img itemprop="image" alt="Reaction to Cheney interview" src="http://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/thumbnails/i/121014/276/155/276/155/121014_sro_minute_640.jpg?ve=1&tl=1">
+								</div>
+							<h3 itemprop="headline">Special Report Online: 12/10/14</h3>
+							</a>
+				</article>
+				</li>
+			  <li class="x-ct ">
+			 	<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+			 	<a href="http://video.foxnews.com/v/3935371254001/helping-others-this-christmas/?playlist_id=930909812001" target="">
+			 		<header></header>
+					<div itemtype="http://schema.org/MediaObject" itemscope="" class="m">
+									<img itemprop="image" alt="Tip of the Day /" src="http://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/thumbnails/i/121014/276/155/276/155/121014_factor_tip_640.jpg?ve=1&tl=1">
+								</div>
+							<h3 itemprop="headline">Helping others this Christmas</h3>
+							</a>
+				</article>
+				</li>
+			  <li class="x-ct ">
+			 	<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+			 	<a href="http://video.foxnews.com/v/3935612276001/univisions-jorge-ramos-tackles-obamas-contradictions/?playlist_id=930909813001" target="">
+			 		<header></header>
+					<div itemtype="http://schema.org/MediaObject" itemscope="" class="m">
+									<img itemprop="image" alt="Anchor says president's position on immigration reform 'evolved'" src="http://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/thumbnails/i/121014/276/155/276/155/121014_hannity_ramos_640.jpg?ve=1&tl=1">
+								</div>
+							<h3 itemprop="headline">Univision&#039;s Jorge Ramos tackles Obama&#039;s contradictions</h3>
+							</a>
+				</article>
+				</li>
+			  <li class="x-ct ">
+			 	<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+			 	<a href="http://video.foxnews.com/v/3935443506001/rand-paul-gruber-should-return-money-to-taxpayers/?playlist_id=930909814001" target="">
+			 		<header></header>
+					<div itemtype="http://schema.org/MediaObject" itemscope="" class="m">
+									<img itemprop="image" alt="Senator on key ObamaCare figure's testimony on his 'stupid' comments about American voters and why he believes he should return his earnings. Gruber, GruberGate" src="http://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/thumbnails/i/121014/276/155/276/155/121014_otr_randpaul_640.jpg?ve=1&tl=1">
+								</div>
+							<h3 itemprop="headline">Rand Paul: Gruber should return money to taxpayers</h3>
+							</a>
+				</article>
+				</li>
+			  <li class="x-ct ">
+			 	<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+			 	<a href="http://video.foxnews.com/v/3928588602001/gov-bobby-jindal-on-race-for-the-white-house/?playlist_id=930909788001" target="">
+			 		<header></header>
+					<div itemtype="http://schema.org/MediaObject" itemscope="" class="m">
+									<img itemprop="image" alt="Is the Louisiana governor a presidential hopeful?" src="http://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/thumbnails/i/120714/276/155/276/155/120714_fns_jindals_640.jpg?ve=1&tl=1">
+								</div>
+							<h3 itemprop="headline">Gov. Bobby Jindal on race for the White House</h3>
+							</a>
+				</article>
+				</li>
+			  </ul>
+	</section>
+</div><div><section class="mod-5" id="politics">
+<header><h2>
+				    Politics Video</h2>
+			     <a class="more" href="http://video.foxnews.com/playlist/politics-latest-politics/ ">More politics videos</a></header><ul>
+		<li class="video-ct ">
+			 	<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+			 	<a href="http://video.foxnews.com/v/3937391792001/cia-director-addresses-senate-dems-interrogation-report/?playlist_id=928378949001" target="">
+			 		<div itemtype="http://schema.org/MediaObject" itemscope="" class="m">
+									<img itemprop="image" alt="Ed Henry reports" src="http://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/thumbnails/i/121114/640/360/165/93/121114_ssr_henry_640.jpg?ve=1&tl=1">
+								</div>
+							<h3 itemprop="headline">CIA director addresses Senate Dems&#039; interrogation report</h3>
+							</a>
+				</article>
+				</li>
+			  <li class="video-ct ">
+			 	<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+			 	<a href="http://video.foxnews.com/v/3937169470001/ari-fleisher-responds-to-aftermath-of-cia-report/?playlist_id=928378949001" target="">
+			 		<div itemtype="http://schema.org/MediaObject" itemscope="" class="m">
+									<img itemprop="image" alt="Former Bush press secretary speaks out" src="http://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/thumbnails/i/121114/640/360/165/93/121114_trs_fleisher2_640.jpg?ve=1&tl=1">
+								</div>
+							<h3 itemprop="headline">Ari Fleisher responds to aftermath of CIA report</h3>
+							</a>
+				</article>
+				</li>
+			  <li class="video-ct ">
+			 	<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+			 	<a href="http://video.foxnews.com/v/3937169473001/is-the-tea-party-losing-influence-in-congress/?playlist_id=928378949001" target="">
+			 		<div itemtype="http://schema.org/MediaObject" itemscope="" class="m">
+									<img itemprop="image" alt="David Mercer and Phillip Stutts on the GOP fight over spending deal" src="http://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/thumbnails/i/121114/640/360/165/93/121114_dotcom_teaparty_640.jpg?ve=1&tl=1">
+								</div>
+							<h3 itemprop="headline">Is the Tea Party losing influence in Congress?</h3>
+							</a>
+				</article>
+				</li>
+			  <li class="video-ct ">
+			 	<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+			 	<a href="http://video.foxnews.com/v/3937318554001/will-obamacare-bankrupt-the-police-union/?playlist_id=928378949001" target="">
+			 		<div itemtype="http://schema.org/MediaObject" itemscope="" class="m">
+									<img itemprop="image" alt="Potential impact of health care law" src="http://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/thumbnails/i/121114/640/360/165/93/121114_trs_seabrook_640.jpg?ve=1&tl=1">
+								</div>
+							<h3 itemprop="headline">Will ObamaCare bankrupt the police union?</h3>
+							</a>
+				</article>
+				</li>
+			  <li class="video-ct ">
+			 	<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+			 	<a href="http://video.foxnews.com/v/3937277676001/cia-director-brennan-addresses-senate-interrogation-report/?playlist_id=928378949001" target="">
+			 		<div itemtype="http://schema.org/MediaObject" itemscope="" class="m">
+									<img itemprop="image" alt="Agency head speaks out on tactics used on terror suspects after /" src="http://a57.foxnews.com/a57.foxnews.com/media2.foxnews.com/thumbnails/i/121114/640/360/165/93/121114_hn_brennan1_640.jpg?ve=1&tl=1">
+								</div>
+							<h3 itemprop="headline">CIA Director Brennan addresses Senate interrogation report</h3>
+							</a>
+				</article>
+				</li>
+			  </ul>
+	</section>
+</div><div><section class="mod-6">
+<header><h2>
+				    LIVE FROM THE FIELD</h2>
+			     </header></section>
+</div><div><section class="mod-7" >
+	<header>
+		    <h2>
+				    From the Fox News Team</h2>
+		     </header>
+	<ul>
+		<li class="article-ct">
+			 	<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+			 		<a href="http://www.foxnews.com/politics/2014/12/11/torture-debate-familiar-clash-with-media-outrage-on-both-sides/">
+			 			<div class="m">
+								<img alt="Howard Kurtz" src="http://global.fncstatic.com/static/managed/img/FB/128x128-howard-kurtz.jpg">
+							</div>
+						</a>
+						<div>
+							<a href="http://www.foxnews.com/politics/2014/12/11/torture-debate-familiar-clash-with-media-outrage-on-both-sides/">
+							<time datetime="2014-12-11T10:58:55Z">December 11, 2014</time>
+							<h3>Torture debate: A familiar clash with media outrage on both sides<img alt="" src="http://global.fncstatic.com/static/v/fn2/img/politics/more-arrow.png"></h3>
+							</a>
+								<p itemtype="http://schema.org/Person" itemscope="" itemprop="author">by <a href ="http://www.foxnews.com/archive/author/howard-kurtz/index.html">Howard Kurtz</a></p>
+								</div>
+				</article>
+			  </li>
+		<li class="article-ct">
+			 	<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+			 		<a href="http://www.foxnews.com/politics/2014/12/11/security-at-us-consulate-in-benghazi-in-disarray-prior-to-2012-attack-state/">
+			 			<div class="m">
+								<img alt="Catherine Herridge" src="http://global.fncstatic.com/static/managed/img/Politics/128x128-catherine-herridge.jpg">
+							</div>
+						</a>
+						<div>
+							<a href="http://www.foxnews.com/politics/2014/12/11/security-at-us-consulate-in-benghazi-in-disarray-prior-to-2012-attack-state/">
+							<time datetime="2014-12-11T05:00:50Z">December 11, 2014</time>
+							<h3>Security at US consulate in Benghazi in disarray prior to 2012 attack, emails show<img alt="" src="http://global.fncstatic.com/static/v/fn2/img/politics/more-arrow.png"></h3>
+							</a>
+								<p itemtype="http://schema.org/Person" itemscope="" itemprop="author">by <a href ="http://www.foxnews.com/archive/author/catherine-herridge/index.html">Catherine Herridge</a></p>
+								</div>
+				</article>
+			  </li>
+		<li class="article-ct">
+			 	<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+			 		<a href="http://www.foxnews.com/politics/2014/12/11/fox-news-poll-81-percent-expect-isis-attack-on-us-majority-says-keep-gitmo-open/">
+			 			<div class="m">
+								<img alt="Dana Blanton" src="http://global.fncstatic.com/static/managed/img/Politics/128x128-dana-blanton.jpg">
+							</div>
+						</a>
+						<div>
+							<a href="http://www.foxnews.com/politics/2014/12/11/fox-news-poll-81-percent-expect-isis-attack-on-us-majority-says-keep-gitmo-open/">
+							<time datetime="2014-12-11T05:00:06Z">December 11, 2014</time>
+							<h3>81 percent expect ISIS attack on US, majority says keep Gitmo open<img alt="" src="http://global.fncstatic.com/static/v/fn2/img/politics/more-arrow.png"></h3>
+							</a>
+								<p itemtype="http://schema.org/Person" itemscope="" itemprop="author">by <a href ="http://www.foxnews.com/archive/author/dana-blanton/index.html">Dana Blanton</a></p>
+								</div>
+				</article>
+			  </li>
+		<li class="article-ct">
+			 	<article itemid="" itemtype="http://schema.org/NewsArticle" itemscope="">
+			 		<a href="http://www.foxnews.com/politics/2014/12/10/fox-news-poll-record-58-percent-would-repeal-obamacare/">
+			 			<div class="m">
+								<img alt="Dana Blanton" src="http://global.fncstatic.com/static/managed/img/Politics/128x128-dana-blanton.jpg">
+							</div>
+						</a>
+						<div>
+							<a href="http://www.foxnews.com/politics/2014/12/10/fox-news-poll-record-58-percent-would-repeal-obamacare/">
+							<time datetime="2014-12-10T20:51:37Z">December 10, 2014</time>
+							<h3>Record 58 percent would repeal ObamaCare<img alt="" src="http://global.fncstatic.com/static/v/fn2/img/politics/more-arrow.png"></h3>
+							</a>
+								<p itemtype="http://schema.org/Person" itemscope="" itemprop="author">by <a href ="http://www.foxnews.com/archive/author/dana-blanton/index.html">Dana Blanton</a></p>
+								</div>
+				</article>
+			  </li>
+		</ul>
+	</section>
+</div></div></div>
+</div>
+</div>
+			</div>
+			<footer id="bottom" class="politics">
+	<div>
+		<div>
+			<div class="branding"><h1><span>Fox News</span>Politics</h1></div>
+			<nav>
+				<ul>
+					<li><a href="//www.foxnews.com/politics/index.html">Politics Home</a></li>
+					<li><a href="//www.foxnews.com/politics/executive-branch/index.html">Executive</a></li>
+					<li><a href="//www.foxnews.com/politics/senate/index.html">Senate</a></li>
+					<li><a href="//www.foxnews.com/politics/house/index.html">House of Representatives</a></li>
+					<li><a href="//www.foxnews.com/politics/defense/index.html">Defense</a></li>
+					<li><a href="//www.foxnews.com/politics/judiciary/index.html">Judiciary</a></li>
+					<li><a href="//www.foxnews.com/politics/scandals/index.html">Scandals</a></li>
+					<li><a href="//www.foxnews.com/politics/congress-to-do-list">Congress To-Do List</a></li>
+				</ul>
+			</nav>
+		</div>
+		<section id="pres-approval">
+			<h2>Presidential Approval</h2>
+			<div class="m"><img alt="President Barack Obama" src="http://global.fncstatic.com/static/v/fn2/img/politics/approval-president.png"></div>
+			<div>
+				<div class="approve">
+					<h5>Approve</h5>
+					<p>51%</p>
+				</div>
+				<div class="disapprove">
+					<h5>Disapprove</h5>
+					<p>47%</p>
+				</div>
+				<a class="more" href="http://www.foxnews.com/official-polls/index.html">More details &#8594;</a>
+			</div>
+		</section><!-- pres-approval -->
+		<section id="congress-approval">
+			<h2>Congressional Approval</h2>
+			<div class="m"><img alt="United States Congress" src="http://global.fncstatic.com/static/v/fn2/img/politics/approval-congress.png"></div>
+			<div>
+				<div class="approve">
+					<h5>Approve</h5>
+					<p>13%</p>
+				</div>
+				<div class="disapprove">
+					<h5>Disapprove</h5>
+					<p>75%</p>
+				</div>
+				<a class="more" href="http://www.foxnews.com/official-polls/index.html">More details &#8594;</a>
+			</div>
+		</section><!-- /congress-approval -->
+		<div class="pre-foot">
+			<a href="http://www.foxnews.com/"><div class="branding">FoxNews.com</div></a>
+			<a class="top" href="#">Back to Top</a>
+		</div>
+		<div class="legal">
+			<p>&copy;2014 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes. <a href="//www.foxnews.com/about/privacy-policy/">Privacy</a> - <a href="//www.foxnews.com/about/terms-of-use/">Terms</a> - <a href="//help.foxnews.com/index.html">FAQ</a></p>
+		</div>
+	</div>
+</footer><div itemscope itemtype="http://schema.org/Organization">
+	         <meta itemprop="name" content="2013 FOX News Network, LLC. All rights reserved.">
+	    	 <meta itemprop="email" content="newsmanager@foxnews.com">
+	     	 <meta itemprop="image" content="global.fncstatic.com/static/v/all/img/head/logo-foxnews.png"/>
+	</div>
+<script type="text/javascript"> jQuery.ad.pre(); FOX.site.bottomInit();</script>
+			</div>
+		<noscript>
+ <img src="http://metrics.foxnews.com/b/ss/foxnews/1/H22.1--NS/1418339979679?pageName=noscript:politics:front:article&g=http://www.foxnews.com/politics/index.html" style="display:none;" width="0" height="0" border="0" alt="">
+ <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-801796h&amp;cg=0&amp;cc=1&amp;si=http://www.foxnews.com/politics/index.html&amp;ts=noscript&amp;rnd=1418339979679" style="display:none;" width="0" height="0" border="0" alt="">
+ <img src="http://b.scorecardresearch.com/p?c1=2&c2=9013181&c3=&c4=http://www.foxnews.com/politics/index.html&c5=&c6=&c15=&cv=2.2&cj=1" style="display:none;" width="0" height="0" border="0" alt="">
+</noscript>
+</body>
+</html>
+
