@@ -3,7 +3,7 @@ import time
 import numpy as np
 from dateutil import parser
 from datetime import datetime as dt
-import pymysql
+import mysql.connector
 import os
 
 """
@@ -42,15 +42,17 @@ def connect_to_db():
     passwd = pf.readline()
     PASSWRD = passwd
     #ipdb.set_trace()
-    return pymysql.connect(database= DBNAME, user=DBUSER, password=PASSWRD)
+    return mysql.connector.connect(database= DBNAME, user=DBUSER, password=PASSWRD)
 
 def getContent(setOfURL):
-
+    connection = connect_to_db()
     for oneURL in setOfURL:
+        print oneURL
         browser.get(oneURL)
         strTitle = ''
         datePub = ''
-        articleHeader = browser.find_elements_by_xpath('//*[@id="content"]/div/div[1]/div[2]/div/div[3]/article')
+
+        articleHeader = browser.find_elements_by_xpath('//*[@id="content"]/div/div/div[2]/div/div[3]/article')
         if len(articleHeader) > 0:
             for eHeader in articleHeader[0].find_elements_by_tag_name('h1'):
                 strTitle = eHeader.text
@@ -58,17 +60,17 @@ def getContent(setOfURL):
             for dHeader in articleHeader[0].find_elements_by_tag_name('time'):
                 datePub = dHeader.get_attribute('datetime')
         # retrieve the content via p tags
-        mainStory = browser.find_elements_by_xpath('//*[@id="content"]/div/div[1]/div[2]/div/div[3]/article/div/div[3]')
+        mainStory = browser.find_elements_by_xpath('//*[@id="content"]/div/div/div[2]/div/div[3]/article/div/div[3]')
 
         if len(mainStory) == 1:
             content = ''
             for eContent in mainStory[0].find_elements_by_tag_name('p'):
                 content += ''.join(eContent.text)
 
-        storeContent(strTitle, datePub, content, oneURL)
+        print storeContent(strTitle, datePub, content, oneURL, connection=connection)
     return True
 
-def storeContent(strTitle, datePub, content, iurl):
+def storeContent(strTitle, datePub, content, iurl, connection=None):
     '''
     NAME
             storeContent
@@ -84,24 +86,23 @@ def storeContent(strTitle, datePub, content, iurl):
                 date    | date                    
            table: stocknews_newscontent       
     '''
-    strContent = content.replace("'", "")
-    conn = connect_to_db() 
-    cur = conn.cursor()
+    if connection is None:
+        connection = connect_to_db()
+    cur = connection.cursor(prepared=True)
 
 
     dateObj = str(parser.parse(datePub.strip() , tzinfos={'EST', -18000}))
     if dateObj == '' or dateObj is None:
         dateObj = dt.now()
 
-    strTitle = strTitle.replace("'","")
-    sql = "INSERT into stocknews_newscontent (url, title, content, date) values ('"+ iurl + "','" + strTitle + "','" + strContent + "','" + datePub + "');"
+    sql = "INSERT into stocknews_newscontent (url, title, content, date) values (%s, %s, %s, %s);"
     try: 
-        cur.execute(sql)
+        cur.execute(sql, (iurl, strTitle, content, datePub))
     except:
         datePub = dt.now()
-        cur.execute(sql)
+        cur.execute(sql, (iurl, strTitle, content, datePub))
 
-    conn.commit()
+    connection.commit()
     return "The item : %s was successfully saved to the databse" % strTitle
 
 def main():
@@ -118,7 +119,7 @@ def main():
 
     browser.get(url)
     numClicks = 1
-    advanceClicks = 200
+    advanceClicks = 2
     while numClicks < advanceClicks:
         if numClicks == 1:
                 #url = 'http://www.foxnews.com/us/economy/index.html#'
@@ -130,9 +131,9 @@ def main():
 
     # all news headlines are li but on under ul
     setURL = set()
-    for i, element in enumerate(browser.find_elements_by_xpath('//*[@id="section-content"]/div[1]/div[4]/div/div/div[6]/div/div/div/ul/li')):
+    for i, element in enumerate(browser.find_elements_by_xpath('//*[@id="content"]/div/div[3]/div[6]/section/div/ul')):
         try:
-            h3Element = element.find_element_by_tag_name('h3')
+            h3Element = element.find_element_by_tag_name('article')
 #            ipdb.set_trace()
             setURL.add(h3Element.find_element_by_tag_name('a').get_attribute('href'))
         except: # NoSuchElementException:

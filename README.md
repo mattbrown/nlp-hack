@@ -1,4 +1,5 @@
 #NLP HACK
+
 Idea: Look at major cable news outlooks and try to detect bias in articles about democrats/republicans
 
 Methods to look at: 
