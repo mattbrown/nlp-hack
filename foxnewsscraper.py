@@ -47,7 +47,6 @@ def connect_to_db():
 def getContent(setOfURL):
     connection = connect_to_db()
     for oneURL in setOfURL:
-        print oneURL
         browser.get(oneURL)
         strTitle = ''
         datePub = ''
@@ -119,23 +118,28 @@ def main():
 
     browser.get(url)
     numClicks = 1
-    advanceClicks = 2
+    advanceClicks = 50
     while numClicks < advanceClicks:
         if numClicks == 1:
                 #url = 'http://www.foxnews.com/us/economy/index.html#'
                 for eClick in np.arange(advanceClicks):
+                    if numClicks % 10 == 0:
+                        print numClicks
                     # find the Show More button and click it a bunch of times
                     browser.find_element_by_class_name("load").click()
-                    time.sleep(1)
+                    time.sleep(2)
                     numClicks += 1
 
     # all news headlines are li but on under ul
     setURL = set()
-    for i, element in enumerate(browser.find_elements_by_xpath('//*[@id="content"]/div/div[3]/div[6]/section/div/ul')):
+    for i, element in enumerate(browser.find_elements_by_xpath('//*[@id="content"]/div/div[3]/div[6]/section/div/ul/li')):
         try:
             h3Element = element.find_element_by_tag_name('article')
 #            ipdb.set_trace()
-            setURL.add(h3Element.find_element_by_tag_name('a').get_attribute('href'))
+            url = h3Element.find_element_by_tag_name('a').get_attribute('href')
+            # we want to throw out all the links to genre pages and only want articles.
+            if url.startswith('http://www.foxnews.com/politics/20'):
+                setURL.add(url)
         except: # NoSuchElementException:
             pass
     #strTitle, datePub, strContent, strUrl  = getContent(setURL)
