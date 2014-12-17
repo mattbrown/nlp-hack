@@ -1,0 +1,34 @@
+select subject, count(*) from analysis group by subject;
+
+
+select subject,
+(subjectivity >= .5) subjective_article,
+(title_subjectivity >= .5) subjective_title,
+count(*)
+from analysis
+group by subject, subjective_article, subjective_title
+
+-- See how many titles are subjective
+select subject,
+(title_subjectivity >= .5) subjective_title,
+count(*)
+from analysis
+group by subject, subjective_title
+
+-- See how many articles are subjective who had objective titles
+select subject,
+(subjectivity >= .5) subjectivity_article,
+count(*)
+from analysis
+where (title_subjectivity < .5)
+group by subject, subjectivity_article
+
+--See polarity of articles with objective articles and titles
+select subject,
+(sentiment > 0) article_is_positive,
+count(*)
+from analysis
+where (title_subjectivity < .5) and (subjectivity < .5)
+group by subject, article_is_positive
+
+

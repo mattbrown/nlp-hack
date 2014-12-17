@@ -27,7 +27,8 @@ def find_bigrams(word_list):
 
 
 def score_feels(word_list):
-    return TextBlob(' '.join(word_list)).sentiment.polarity
+    text = TextBlob(' '.join(word_list))
+    return text.sentiment.polarity, text.sentiment.subjectivity
 
 
 if __name__ == '__main__':

@@ -146,8 +146,8 @@ def main():
 
     getContent(setURL)
 
-chromedriver = "/Users/mbrown/Downloads/chromedriver/chromedriver"
-os.environ["webdriver.chrome.driver"] = chromedriver
-browser = webdriver.Chrome(chromedriver)
 if __name__ == '__main__':
+    chromedriver = "/Users/mbrown/Downloads/chromedriver/chromedriver"
+    os.environ["webdriver.chrome.driver"] = chromedriver
+    browser = webdriver.Chrome(chromedriver)
     main()
